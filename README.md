@@ -35,7 +35,7 @@ Beadási határidő: 2016. 04. 17. 23:59
 
 #Harmadik feladat
 
-Tóruszba zárt spiderman
+#Tóruszba zárt spiderman
 
 Egy procedurálisan textúrázott, diffúz-spekuláris tórusz belsejében egy ugyancsak procedurálisan textúrázott golyó gördül, egy cián és egy sárga fényű fényforrás labda pattog a tórusszal rugalmasan ütközve és a mechanikai energiáját megtartva, valamint spiderman avatárunk várja a sorsát, akinek a szemszögéből követjük az eseményeket és gyönyörködünk a Phong árnyalt színtérben. A golyó 3 másodperces periodiusidővel gördül végig a tóruszon. A tórusz rögzített, golyó antigravitációs készülékkel van ellátva, így nem szakad el a tórusz falától. A többiekre pedig hat a homogén nehézségi erőtér. A golyó pályája a tórusz falán periodikus és nem kör. Spiderman mindig a golyó irányába néz, mert szeretnénk elkerülni, hogy a golyó legázolja. Ha a tórusz belső falának egy pontjára mutatunk a bal egérgomb lenyomásával, akkor oda egy nem zérus nyugalmi hosszúságú gumikötelet lő ki, ami megnyúlás esetén a Hooke törvény és a dinamika alaptörvénye szerint magával rántja, így a közeledő golyó elől el tud ugrani. Minden újabb gumilövés a régit oldja.
 
