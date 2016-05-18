@@ -1,8 +1,10 @@
 # grafika
 
+A feltöltések tartalmazzák a beadott háziaim, melyek nem feltétlenül hibátlanok, de 1,2,2 pontosak azaz maxpontosak. A kód másolása plágiumot eredményezhet csupán csak a megértést szolgálja. Amennyiben ezt a segédanyagot le kéne szednem bármi indok miatt ezzel kapcsolatban írjanak a katajona@gmail.com címre.
+
 #Első feladat
 
-Twinkle, twinkle little star...
+#Twinkle, twinkle little star...
 
 A 2D virtuális világ három, legalább 7-ágú forgó és pulzáló csillagot tartalmaz, amelyek színe különböző. A legfényesebb csillag az egérklikkek által kijelölt zárt, -0.8-as tenziójú Catmull-Rom spline-t követi (azaz egy kontrollpontban a sebesség az előző és következő szegmensek átlagsebességeinek a 0.9-de). A Catmull-Rom spline csomóértékei a gomblenyomáskori idők. A legutolsó és legelső kontrollpont között 0.5 sec telik el, majd a csillag periodikusan újra bejárja a görbét. A görbe mindenhol folytonosan deriválható, a legelső pontban is (azaz nem törik meg itt sem).
 
@@ -13,7 +15,8 @@ SPACE lenyomására a virtuális kameránkat a fényes csillaghoz kapcsolhatjuk,
 Motivált hallgatóknak: A mozgó csillagok a Doppler effektus szerint változtassák a színüket ("vörös eltolódás"), feltételezve, hogy a megfigyelő a világkoordinátarendszer origójában ül.
 
 Beadási határidő: 2016. 03. 28. 23:59
-Második feladat
+
+#Második feladat
 
 A virtuális világ a budapesti (Budapest az északi szélesség 47 fokán van, a keringési sík és a föld forgástengelye 23 fokot zár be) kertjének észak-déli tájolású 50mx10mx3m-es úszómedencéjét tartalmazza.
 
@@ -28,7 +31,9 @@ Az objektumokat a fehér Nap (sugara 7*10^8 m, a fény 8 perc alatt ér a földr
 Jelenítse meg a színtér június 21.-én (nyári napforduló), 12.00 órakori állapotát CPU-n az onInitialization-ban végrehajtott rekurzív sugárkövetéssel, és az onDisplay-ben jelenítse meg a képet annak egy teljes képernyős négyszögre textúrázásával és kirajzolásával (példa program a sugárkövetés diák mellett)!
 
 Beadási határidő: 2016. 04. 17. 23:59
-Harmadik feladat
+
+
+#Harmadik feladat
 
 Tóruszba zárt spiderman
 
