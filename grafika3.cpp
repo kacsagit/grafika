@@ -114,7 +114,7 @@ const char *vertexSource = R"(
            vec4 wPos = vtxPos * M;
            wNormal =  Minv * vtxNorm;
             for(int i=0;i<lightSize;i++){
-                 wView[i]= wEye-wPos*wLiPos[i].w;
+                 wView[i]= wEye-wPos*wLiPos[i].w;  //ez hulyeseg felesleges a w-vel szorozni
                  wLight[i]= wLiPos[i] - wPos ;
             }
         
